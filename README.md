@@ -6,6 +6,8 @@ approvals) and an **employee wallet** side (Pix, corporate card, reimbursements,
 assistant). Designed and built by me end to end — UI, architecture, mock server and the
 networking layer.
 
+This is a personal rebuild, separate from my [Paggo University selection case](https://github.com/gabrielcoffee/paggo_case), which is a full-stack web app.
+
 ## Previews
 
 The employee wallet, from the latest build:
