@@ -8,18 +8,6 @@ networking layer.
 
 This is a personal rebuild, separate from [expresso-collections](https://github.com/gabrielcoffee/expresso-collections), my full-stack web app for B2B collections.
 
-## Previews
-
-The employee wallet, from the latest build:
-
-<p>
-  <img src="docs/screenshots/wallet-home.png" width="19%" alt="Wallet home" />
-  <img src="docs/screenshots/wallets.png" width="19%" alt="Wallet switcher with recent spends" />
-  <img src="docs/screenshots/pendencias.png" width="19%" alt="Pending receipts" />
-  <img src="docs/screenshots/solicitacoes.png" width="19%" alt="Requests" />
-  <img src="docs/screenshots/extrato.png" width="19%" alt="Unified statement" />
-</p>
-
 ## What I built
 
 **Admin side**
